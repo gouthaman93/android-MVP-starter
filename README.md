@@ -1,3 +1,3 @@
 # Android-MVP-starter
 
-Migrating to new repository
+Migrating to new public account
